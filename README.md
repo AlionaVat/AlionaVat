@@ -50,8 +50,3 @@ Focused on building **reliable systems**, **APIs**, and **data pipelines**
 - 💼 LinkedIn: https://www.linkedin.com/in/aliona-vataman-618a02294
 - 🧑‍💻 GitHub: https://github.com/alionaVat
 
----
-
-## ⚡ Fun Fact
-
-I enjoy finding and fixing tricky bugs — the more unexpected, the better
