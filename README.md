@@ -11,7 +11,6 @@ Focused on building **reliable systems**, **APIs**, and **data pipelines**
 - ⚙️ Interested in **real-time systems** and **high-reliability software**  
 - 🐧 Comfortable working in Linux environments  
 - 🧩 I enjoy debugging complex issues and making systems more stable  
-- ✈️ Currently exploring opportunities in **aerospace & defense software**
 
 ---
 
